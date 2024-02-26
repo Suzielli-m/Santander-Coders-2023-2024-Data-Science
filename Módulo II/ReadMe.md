@@ -27,4 +27,4 @@ Utilizamos dados históricos de casos de dengue e informações climáticas agre
   - Investigação da relação entre casos de dengue e fatores climáticos, incluindo temperatura máxima, temperatura mínima, e índice de seca (PDSI).
 
 - **Análise de Correlação:**
-- Gráficos de dispersão e mapa de calor para explorar relações entre casos de dengue e variáveis climáticas.
+  - Gráficos de dispersão e mapa de calor para explorar relações entre casos de dengue e variáveis climáticas.
