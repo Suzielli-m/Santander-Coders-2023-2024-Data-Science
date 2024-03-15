@@ -6,12 +6,12 @@ Este repositório contém os projetos desenvolvidos durante o curso de Data Scie
 
 O curso é composto pelos seguintes módulos:
 
-- **Lógica de Programação II (PY)**
-- **Técnicas de Programação I (PY)**
-- **Banco de Dados I**
-- **Estatística I**
-- **Machine Learning I**
-- **Machine Learning II**
+- **Módulo I: Lógica de Programação II (PY)**
+- **Módulo II: Técnicas de Programação I (PY)**
+- **Módulo III: Banco de Dados I**
+- **Módulo IV: Estatística I**
+- **Módulo V: Machine Learning I**
+- **Módulo VI: Machine Learning II**
 
 Cada módulo é projetado para construir uma base sólida em Data Science, começando com conceitos básicos de programação e avançando para técnicas mais complexas de Machine Learning.
 
